@@ -29,7 +29,7 @@ This should start the app,
 ## How to use it
 
 <b>1</b> Select the number of classes that your model has.
-https://raw.githubusercontent.com/Pravesh1800/Image-Classification/main/image_classification/class.mp4
+https://raw.githubusercontent.com/Pravesh1800/Image-Classification/main/image_classification/class.mp4?raw=1
 
 <b>2</b> Enter the name of your class.
 <video controls src="https://pravesh.portfoliomine.in/media/5f4a95d9163752de4bf70a922af0702a3e335a6e963236b9d9fd0bab.mp4" title="Title"></video>
