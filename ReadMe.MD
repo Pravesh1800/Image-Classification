@@ -1,4 +1,4 @@
-Info :
+# Info
 <B>Image Classification</B> This project is an interactive tool for creating and training image classification models. You can specify the number of classes, provide the names for those classes, upload images for each class, and then train a model to classify images into the specified classes.
 
 
