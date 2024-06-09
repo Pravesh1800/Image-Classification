@@ -29,10 +29,10 @@ This should start the app,
 ## How to use it
 
 <b>1</b> Select the number of classes that your model has.
-https://raw.githubusercontent.com/Pravesh1800/Image-Classification/main/image_classification/class.mp4?raw=1
+"https://pravesh.portfoliomine.in/media/d6e2714fd3f426c180946fdc4b84e7dcc84ece361d8f09ed8e120e37.mp4"
 
 <b>2</b> Enter the name of your class.
-<video controls src="https://pravesh.portfoliomine.in/media/5f4a95d9163752de4bf70a922af0702a3e335a6e963236b9d9fd0bab.mp4" title="Title"></video>
+https://pravesh.portfoliomine.in/media/5f4a95d9163752de4bf70a922af0702a3e335a6e963236b9d9fd0bab.mp4
 
 <b>3</b> Click on 'Browse file' and select the images for those class.
 <video controls src="https://pravesh.portfoliomine.in/media/95066290ce78f9b1c0ec357071048fc9697578945fb541a01b807eb6.mp4" title="Title"></video>
