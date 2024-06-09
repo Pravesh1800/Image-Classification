@@ -29,7 +29,7 @@ This should start the app,
 ## How to use it
 
 <b>1</b> Select the number of classes that your model has.
-<video controls src="https://pravesh.portfoliomine.in/media/39cea8e982842670bd2b930e20e44e4b502d69f5bd1e94c3429b89a9.mp4" title="Title"></video>
+https://pravesh.portfoliomine.in/media/39cea8e982842670bd2b930e20e44e4b502d69f5bd1e94c3429b89a9.mp4
 
 <b>2</b> Enter the name of your class.
 <video controls src="https://pravesh.portfoliomine.in/media/5f4a95d9163752de4bf70a922af0702a3e335a6e963236b9d9fd0bab.mp4" title="Title"></video>
