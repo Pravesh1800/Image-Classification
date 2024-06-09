@@ -28,7 +28,7 @@ This should start the app,
 
 ## How to use it
 
-<b>1</b>Select the number of classes that your model has.
+<b>1</b> Select the number of classes that your model has.
 https://raw.githubusercontent.com/Pravesh1800/Image-Classification/main/image_classification/class.mp4
 
 <b>2</b> Enter the name of your class.
