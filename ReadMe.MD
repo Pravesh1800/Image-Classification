@@ -28,20 +28,20 @@ This should start the app,
 
 ## How to use it
 
-<b>1</b> Select the number of classes that your model has.
+<b>1.</b> Select the number of classes that your model has.
 "https://pravesh.portfoliomine.in/media/d6e2714fd3f426c180946fdc4b84e7dcc84ece361d8f09ed8e120e37.mp4"
 
-<b>2</b> Enter the name of your class.
-https://pravesh.portfoliomine.in/media/5f4a95d9163752de4bf70a922af0702a3e335a6e963236b9d9fd0bab.mp4
+<b>2.</b> Enter the name of your class.
+"https://pravesh.portfoliomine.in/media/5f4a95d9163752de4bf70a922af0702a3e335a6e963236b9d9fd0bab.mp4"
 
-<b>3</b> Click on 'Browse file' and select the images for those class.
-<video controls src="https://pravesh.portfoliomine.in/media/95066290ce78f9b1c0ec357071048fc9697578945fb541a01b807eb6.mp4" title="Title"></video>
+<b>3.</b> Click on 'Browse file' and select the images for those class.
+"https://pravesh.portfoliomine.in/media/95066290ce78f9b1c0ec357071048fc9697578945fb541a01b807eb6.mp4"
 
-<b>4</b> Click on submit once you can see the names of your images.
-<video controls src="https://pravesh.portfoliomine.in/media/cf6c23669fac4aa74128d9eaee9aa4067eb99c4a83dd1360d40dca63.mp4" title="Title"></video>
+<b>4.</b> Click on submit once you can see the names of your images.
+"https://pravesh.portfoliomine.in/media/cf6c23669fac4aa74128d9eaee9aa4067eb99c4a83dd1360d40dca63.mp4"
 
-<b>5</b> Select the no of epochs you want to train the model for and click on 'train' to start training the model.
-<video controls src="https://pravesh.portfoliomine.in/media/29d8ed3725b4baba1d037c8c6cadf0718ba5143b5c55fba53bd17194.mp4" title="Title"></video>
+<b>5.</b> Select the no of epochs you want to train the model for and click on 'train' to start training the model.
+"https://pravesh.portfoliomine.in/media/29d8ed3725b4baba1d037c8c6cadf0718ba5143b5c55fba53bd17194.mp4"
 
 ## Troubleshooting Tips
 
