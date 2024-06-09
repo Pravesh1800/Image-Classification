@@ -28,7 +28,7 @@ This should start the app,
 
 ## How to use it
 
-<b>1</b> Select the number of classes that your model has.
+### 1. Select the number of classes that your model has.
 https://pravesh.portfoliomine.in/media/39cea8e982842670bd2b930e20e44e4b502d69f5bd1e94c3429b89a9.mp4
 
 <b>2</b> Enter the name of your class.
